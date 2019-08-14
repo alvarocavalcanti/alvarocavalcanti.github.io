@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/alvarocavalcanti
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://alvarocavalcanti.github.io
+  * I am alvarocavalcanti (https://keybase.io/alvarocavalcanti) on keybase.
+  * I have a public key ASBWJSLpZSIZLl35XUhnQ1XzHnlmVYyJevHslwSy8J-C5wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208bbc3a8b37f968b23ffe16360799185b66aa62cd2386e4fb9bd9052938b7aa830a",
+      "host": "keybase.io",
+      "kid": "0120562522e96522192e5df95d48674355f31e7966558c897af1ec9704b2f09f82e70a",
+      "uid": "ce039ca244d1f2a90deb025406fa5719",
+      "username": "alvarocavalcanti"
+    },
+    "merkle_root": {
+      "ctime": 1565777940,
+      "hash": "4005158bebe818a0bb83b8d3bddfbfe5d0c3424c26efe9cdd6dd8700ffa5bbc1c9eba8ee68dda56f20c639c33de5483c0bdb01ce8ccb786e3a111821b59a7c4d",
+      "hash_meta": "4990a11d77db6cec440f2c9d5370864e3bea7b41f3852bef38023b2a795348b9",
+      "seqno": 6012514
+    },
+    "service": {
+      "entropy": "jo64R29QTzsweOSlAL3T+ww7",
+      "hostname": "alvarocavalcanti.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.3.0"
+  },
+  "ctime": 1565777967,
+  "expire_in": 504576000,
+  "prev": "d4b5cfe37d8c085b4a063a2594203dfa7c647ced2ad128a4ef28d9a0db81e873",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgViUi6WUiGS5d+V1IZ0NV8x55ZlWMiXrx7JcEsvCfgucKp3BheWxvYWTESpcCIcQg1LXP432MCFtKBjollCA9+nxkfO0q0Sik7yjZoNuB6HPEIKAchMxMSfsKvXV0d8fHqvQYZJV9LraOJ026lkzXmJADAgHCo3NpZ8RAL4Axbi+T6CidZwQsieR7eJCb6gLQWztJSJt96pXh5Nqpu407uXAb6/+vsfeQPASJbHN6yOxsAw2iQpwUN/++DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEKBUNkn5vIRFzY+E2e3SyBBqludi1jsXVO2kZrkNPYBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alvarocavalcanti
+
+==================================================================
